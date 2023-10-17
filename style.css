@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --primary-color:#000106;
+    --secondary-color:#fff;
+  
+}
+.dark-theme{
+    --primary-color:#edf2fc;
+    --secondary-color:#212121;
+}
+.theme{
+    width: 100%;
+    height: 100%;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+#icon{
+    width: 30px;
+   
+    
+} 
